@@ -13,6 +13,7 @@ namespace ConsoleApp4
             //Hola perros
             int coorporacion;
             Console.Write("---a---");
+            // a Jenn le gusta Stray Kids 
         }
     }
 }
